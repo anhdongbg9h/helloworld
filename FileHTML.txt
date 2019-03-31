@@ -1,0 +1,71 @@
+<!Doctype html>
+<html>
+<head>
+<link rel = "stylesheet" type = "text/css" href = "Layout.css">
+</head>
+
+<body>
+<script>
+/*var a;
+a = 1;
+var b;
+b = 2;
+var c;
+c = 1;
+var delta = b*b - 4*a*c;
+GiaiPhuongTrinhBacHai(delta);
+
+function GiaiPhuongTrinhBacHai(delta){
+	if(delta > 0)
+	{
+		var x1 = (-b + Math.sqrt(delta))/(2*a);
+		var x2 = (-b - Math.sqrt(delta))/(2*a);
+		alert("Nghi?m X1 = " + x1 +" Và Nghi?m X2 = " + x2);
+	}
+	else if(delta < 0)
+	{
+		alert("Phuong Trình Vô Nghi?m !!!");
+	}
+	else{
+		alert("Phuong Trình Có Nghi?m Duy Nh?t Là : " + (-b)/(2*a));
+	}
+}
+
+*/
+
+</script>
+<div class = "ABC1">Tìm Ki?m</div>
+<div class = "abc">
+
+	<div class = "LoGo"> <p>VN EXPREES</p></div>
+	<div class = "ThanhDieuHuong">ThanhDieuHuong</div>
+	<div class = "TrangNhat">TrangNhat</div>
+	<div class = "TrangHai">TrangHai</div>
+	<div class = "TrangBa">TrangBa</div>
+	<div class = "TrangBon"><p>TrangBon</p>
+		<div class = "Tin1">Tin 1</div>
+		<div class = "Tin1">Tin 2</div>
+		<div class = "Tin1">Tin 3</div>
+		<div class = "Tin1">Tin 4</div>
+		<div class = "Tin1">Tin 5</div>
+		<div class = "Tin1">Tin 6</div>
+		<div class = "Tin2"><p>Tin 1</p></div>
+		<div class = "Tin2"><p>Tin 1</p></div>
+		<div class = "Tin2"><p>Tin 1</p></div>
+	</div>
+	<div class = "TrangBon" ><p>TrangNam</p>
+		<div class = "Tin2"><p>Tin 1</p></div>
+		<div class = "Tin2"><p>Tin 1</p></div>
+		<div class = "Tin2"><p>Tin 1</p></div>
+		<div class = "Tin2"><p>Tin 1</p></div>
+		<div class = "Tin2"><p>Tin 1</p></div>
+		<div class = "Tin2"><p>Tin 1</p></div>
+		
+	</div>
+
+	<div class = "TrangSau"> Trang Sáu</div>
+	<div class = "TrangSau"> Trang B?y</div>
+	<div class = "TrangSau"> Trang Cu?i</div>
+</div>
+</body>
+</html>
